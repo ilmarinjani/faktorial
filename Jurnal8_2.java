@@ -9,7 +9,7 @@ public class Jurnal8_2 {
         
 
          System.out.println("Ilma Rinjani (6706152151)");
-         System.out.println("");
+         System.out.println("omaigatt");
          int l = 1;
          int tingkat = 10;
          int n = 12/2;
